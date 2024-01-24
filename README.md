@@ -1,0 +1,1 @@
+The above file contains a deep learining model i.e. an improved pretrained densenet model for multiclass Braintumor classification trained on 3 different datasets i.e. Figshre, BR3HH,Sartaj datasets, the models outperforms several deep learning models with the accuracy of 98% in 5 epochs .further accuracy can be extended by training the model on more epochs
